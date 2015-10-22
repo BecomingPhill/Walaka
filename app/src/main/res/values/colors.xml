@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_gray">#bbbbbb</color>
+    <color name="apptheme_color">#419c28</color>
+    <color name="light_green_background">#9AC68D</color>
+    <color name="swipeRefresh1">#AACEA0</color>
+    <color name="swipeRefresh2">#6BB456</color>
+    <color name="swipeRefresh3">#5AAA40</color>
+    <color name="swipeRefresh4">#419c28</color>
+    
+</resources>
